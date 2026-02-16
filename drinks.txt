@@ -1,0 +1,21 @@
+1|Silk Almond|200|4.00|Silk Company|
+2|Caburry Choco|200|2.00|Caburry Company|
+3|Silver Coke|200|2.00|Coca Company|
+4|Nescafe Mocha|100|3.00|Nescafe Company|
+5|A&W Cream Soda|150|2.00|A&W Company|
+6|Fanta Grape|70|2.00|Fanta Company|
+7|Fanta Orange|80|2.00|Fanta Company|
+8|Yogi Tea|40|2.00|Yogi Company|
+9|Seasons Lemond Tea|90|3.00|Seasons Company|
+10|Cowhead Milk|150|3.00|Cowhead Company|
+11|Pokka Milk Tea|50|3.00|Pokka Company|
+12|Monster Energy Drink|20|3.00|Monster Company|
+13|Pepsi Berry|200|2.00|Coca Company|
+14|Red Bull Energy Drink|100|3.00|ABC Company|
+15|Koko Rice Milk|50|3.00|Koko Company|
+16|A&W Root Beer|70|4.00|A&W Company|
+17|Sprite|100|2.00|Coca Company|
+18|Cowhead Strawberry|90|3.00|Cowhead Company|
+19|Fuji Water|100|1.00|Fuji Company|
+20|Sliss Yogurt|200|3.00|Sliss Company|
+21|MountainDrew|150|2.00|The Cola-cola Company|
